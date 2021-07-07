@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "João Zimmermann",
+      "email": "joao@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Samara Zimmermann",
+      "email": "samara@gmail.com",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 1
+    },
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 2
+    },
+    {
+      "title": "Produto 1",
+      "price": 100,
+      "id": 3
+    },
+    {
+      "title": "Produto 1",
+      "price": "115",
+      "id": 4
+    },
+    {
+      "title": "Produto 3",
+      "price": 150,
+      "id": 5
+    }
+  ],
+  "orders": [
+    {
+      "date": "2021-07-07T12:59:19.101Z",
+      "uuid": "02222513-6709-4a3b-a83a-2c9ef2677887",
+      "id": 1
+    }
+  ]
+}
