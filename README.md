@@ -1,6 +1,6 @@
 # Insomnia Test API
 
-<p align="center">Testes ralizados utilizando ferramaneta Insomnia para consumir uma API fake gerada pelo json-server, tendo em vista aprender novas funções.</p>
+<p align="center">Testes ralizados utilizando a ferramenta Insomnia para consumir uma API fake gerada pelo json-server, tendo em vista aprender novas funções.</p>
 
 ### 🛠 Tecnologias
 
